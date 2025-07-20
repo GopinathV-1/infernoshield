@@ -27,8 +27,8 @@
     </header>
     <RouterView />
     <footer>
-      <p>Contact: 📞 +91-9876543210 | 📧 firesafe@example.com | 📍 Chennai, India</p>
-      <p><a href="https://wa.me/919876543210" target="_blank">💬 WhatsApp Us</a></p>
+      <p>Contact: 📞 +91-9566613616 | 📧 kalai@infernoshield.in | 📍 Thiruvannamalai, India</p>
+      <p><a href="https://wa.me/919566613616" target="_blank">💬 WhatsApp Us</a></p>
     </footer>
   </div>
 </template>
